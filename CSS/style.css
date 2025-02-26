@@ -183,7 +183,7 @@ h1 {
     color: #0c426e;
 }
 .cleanqContent {
-    background-image: url("/Images/cleanQuality.png");
+    background-image: url("../Images/cleanQuality.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
